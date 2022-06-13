@@ -1,4 +1,6 @@
 ## `👻` `GHOUL` 
+`Real` - ![](https://komarev.com/ghpvc/?username=skidghoul&style=for-the-badge)<br>
+`Fake` - ![](https://komarev.com/ghpvc/?username=fake-skidghoul&style=for-the-badge)
 ## `👻` **`UPCOMING PROJECTS`**
 ```
 ・PieCaptcha   |   ReCaptcha, Github Captcha Bypasser
