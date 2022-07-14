@@ -1,17 +1,15 @@
 ## `👻` `GHOUL` 
-`Real` - ![](https://komarev.com/ghpvc/?username=skidghoul&style=for-the-badge)<br>
-`Fake` - ![](https://komarev.com/ghpvc/?username=fake-skidghoul&style=for-the-badge)
 ## `👻` **`UPCOMING PROJECTS`**
 ```
-・PieCaptcha   |   ReCaptcha, Github Captcha Bypasser
-・LOLBomb      |   1v1.LOL Exploits
+・PieCaptcha   |   ReCaptcha, FunCaptcha, TextCaptcha Bypasser
+・LOLBomb      |   1v1.LOL Exploits, 1v1.LOL Farmer
 ```
 ### `👻` **`ABOUT ME`**
 ```
 >>> py main.py
 
 Ghoul
-- Age: 16
+- Age: 17
 - Languages: Already Shown
 - Patched Projects: Proxyless Discord Token Generator, Discord Groupchat Spammer, Discord Token Unlocker
 ```
